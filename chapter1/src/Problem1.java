@@ -1,4 +1,4 @@
-public class Main {
+public class Problem1 {
     private static final int ASCII_CODE_LENGTH = 128;
 
     private static boolean isUniqueCharacter(String str) {
